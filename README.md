@@ -1,5 +1,5 @@
 # Secret-santa
-This program takes in names of participants in Secret Santa and randomly assigns who gives to who.
+This program takes in names of participants in Secret Santa and randomly assigns who gives to whom.
 
 Use this as an easy way to randomly match people up, without worrying about drawing your own name!
 
